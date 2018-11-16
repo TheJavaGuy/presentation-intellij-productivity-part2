@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "How to be more productive in IntelliJ, part 2",
+    "packageVersion": "0.0.1",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
